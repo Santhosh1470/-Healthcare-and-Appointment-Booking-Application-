@@ -37,4 +37,4 @@ To get started with the project, follow the instructions below:
 ### Clone the repository
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/Healthcare-and-Appointment-Booking-Application.git
+git clone https://github.com/Santhosh1470/Healthcare-and-Appointment-Booking-Application.git
